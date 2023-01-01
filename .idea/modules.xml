@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/RomanToInteger/RomanToInteger.iml" filepath="$PROJECT_DIR$/RomanToInteger/RomanToInteger.iml" />
       <module fileurl="file://$PROJECT_DIR$/Two Sum/Two Sum.iml" filepath="$PROJECT_DIR$/Two Sum/Two Sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/ValidParentheses/ValidParentheses.iml" filepath="$PROJECT_DIR$/ValidParentheses/ValidParentheses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Word Pattern/Word Pattern.iml" filepath="$PROJECT_DIR$/Word Pattern/Word Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/add2numbers/add2numbers.iml" filepath="$PROJECT_DIR$/add2numbers/add2numbers.iml" />
     </modules>
   </component>
