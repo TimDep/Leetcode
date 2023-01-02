@@ -4,12 +4,15 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Detect Capital/Detect Capital.iml" filepath="$PROJECT_DIR$/Detect Capital/Detect Capital.iml" />
       <module fileurl="file://$PROJECT_DIR$/FindCommonCharacters/FindCommonCharacters.iml" filepath="$PROJECT_DIR$/FindCommonCharacters/FindCommonCharacters.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Fizz Buzz/Fizz Buzz.iml" filepath="$PROJECT_DIR$/Fizz Buzz/Fizz Buzz.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode.iml" filepath="$PROJECT_DIR$/Leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/LetterCombinationsOfPhoneNumber/LetterCombinationsOfPhoneNumber.iml" filepath="$PROJECT_DIR$/LetterCombinationsOfPhoneNumber/LetterCombinationsOfPhoneNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/LongestCommonPrefix/LongestCommonPrefix.iml" filepath="$PROJECT_DIR$/LongestCommonPrefix/LongestCommonPrefix.iml" />
       <module fileurl="file://$PROJECT_DIR$/LongestCommonWord/LongestCommonWord.iml" filepath="$PROJECT_DIR$/LongestCommonWord/LongestCommonWord.iml" />
       <module fileurl="file://$PROJECT_DIR$/Merge2SortedLists/Merge2SortedLists.iml" filepath="$PROJECT_DIR$/Merge2SortedLists/Merge2SortedLists.iml" />
       <module fileurl="file://$PROJECT_DIR$/Merge2SortedListsBetterNM/Merge2SortedListsBetterNM.iml" filepath="$PROJECT_DIR$/Merge2SortedListsBetterNM/Merge2SortedListsBetterNM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Middle of the Linked List/Middle of the Linked List.iml" filepath="$PROJECT_DIR$/Middle of the Linked List/Middle of the Linked List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Middle of the Linked List Better NM/Middle of the Linked List Better NM.iml" filepath="$PROJECT_DIR$/Middle of the Linked List Better NM/Middle of the Linked List Better NM.iml" />
       <module fileurl="file://$PROJECT_DIR$/Number of Steps to Reduce a Number to Zero/Number of Steps to Reduce a Number to Zero.iml" filepath="$PROJECT_DIR$/Number of Steps to Reduce a Number to Zero/Number of Steps to Reduce a Number to Zero.iml" />
       <module fileurl="file://$PROJECT_DIR$/Palindrome Linked List/Palindrome Linked List.iml" filepath="$PROJECT_DIR$/Palindrome Linked List/Palindrome Linked List.iml" />
       <module fileurl="file://$PROJECT_DIR$/Ransom Note/Ransom Note.iml" filepath="$PROJECT_DIR$/Ransom Note/Ransom Note.iml" />
