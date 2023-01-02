@@ -2,12 +2,20 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Detect Capital/Detect Capital.iml" filepath="$PROJECT_DIR$/Detect Capital/Detect Capital.iml" />
       <module fileurl="file://$PROJECT_DIR$/FindCommonCharacters/FindCommonCharacters.iml" filepath="$PROJECT_DIR$/FindCommonCharacters/FindCommonCharacters.iml" />
       <module fileurl="file://$PROJECT_DIR$/Leetcode.iml" filepath="$PROJECT_DIR$/Leetcode.iml" />
       <module fileurl="file://$PROJECT_DIR$/LetterCombinationsOfPhoneNumber/LetterCombinationsOfPhoneNumber.iml" filepath="$PROJECT_DIR$/LetterCombinationsOfPhoneNumber/LetterCombinationsOfPhoneNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/LongestCommonPrefix/LongestCommonPrefix.iml" filepath="$PROJECT_DIR$/LongestCommonPrefix/LongestCommonPrefix.iml" />
       <module fileurl="file://$PROJECT_DIR$/LongestCommonWord/LongestCommonWord.iml" filepath="$PROJECT_DIR$/LongestCommonWord/LongestCommonWord.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Merge2SortedLists/Merge2SortedLists.iml" filepath="$PROJECT_DIR$/Merge2SortedLists/Merge2SortedLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Merge2SortedListsBetterNM/Merge2SortedListsBetterNM.iml" filepath="$PROJECT_DIR$/Merge2SortedListsBetterNM/Merge2SortedListsBetterNM.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Number of Steps to Reduce a Number to Zero/Number of Steps to Reduce a Number to Zero.iml" filepath="$PROJECT_DIR$/Number of Steps to Reduce a Number to Zero/Number of Steps to Reduce a Number to Zero.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Palindrome Linked List/Palindrome Linked List.iml" filepath="$PROJECT_DIR$/Palindrome Linked List/Palindrome Linked List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Ransom Note/Ransom Note.iml" filepath="$PROJECT_DIR$/Ransom Note/Ransom Note.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Richest Customer Wealth/Richest Customer Wealth.iml" filepath="$PROJECT_DIR$/Richest Customer Wealth/Richest Customer Wealth.iml" />
       <module fileurl="file://$PROJECT_DIR$/RomanToInteger/RomanToInteger.iml" filepath="$PROJECT_DIR$/RomanToInteger/RomanToInteger.iml" />
+      <module fileurl="file://$PROJECT_DIR$/The K Weakest Rows in a Matrix/The K Weakest Rows in a Matrix.iml" filepath="$PROJECT_DIR$/The K Weakest Rows in a Matrix/The K Weakest Rows in a Matrix.iml" />
       <module fileurl="file://$PROJECT_DIR$/Two Sum/Two Sum.iml" filepath="$PROJECT_DIR$/Two Sum/Two Sum.iml" />
       <module fileurl="file://$PROJECT_DIR$/ValidParentheses/ValidParentheses.iml" filepath="$PROJECT_DIR$/ValidParentheses/ValidParentheses.iml" />
       <module fileurl="file://$PROJECT_DIR$/Word Pattern/Word Pattern.iml" filepath="$PROJECT_DIR$/Word Pattern/Word Pattern.iml" />
