@@ -37,5 +37,23 @@ public class Main {
             oplossing = oplossing.next;
         }
         return hulp.next;
+
+
+//          Better but not mine
+//        int size = 0;
+//        ListNode node = head;
+//        while(node != null){
+//            size++;
+//            node = node.next;
+//        }
+//
+//        size /= 2;
+//        node = head;
+//        while(node != null && size > 0){
+//            size--;
+//            node = node.next;
+//        }
+//        return node;
+
     }
 }
