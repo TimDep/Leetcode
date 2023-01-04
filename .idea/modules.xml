@@ -24,7 +24,10 @@
       <module fileurl="file://$PROJECT_DIR$/ValidParentheses/ValidParentheses.iml" filepath="$PROJECT_DIR$/ValidParentheses/ValidParentheses.iml" />
       <module fileurl="file://$PROJECT_DIR$/Word Pattern/Word Pattern.iml" filepath="$PROJECT_DIR$/Word Pattern/Word Pattern.iml" />
       <module fileurl="file://$PROJECT_DIR$/_0032_Longest_Valid_Parentheses/_0032_Longest_Valid_Parentheses.iml" filepath="$PROJECT_DIR$/_0032_Longest_Valid_Parentheses/_0032_Longest_Valid_Parentheses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_0724_FindPivotIndex/_0724_FindPivotIndex.iml" filepath="$PROJECT_DIR$/_0724_FindPivotIndex/_0724_FindPivotIndex.iml" />
       <module fileurl="file://$PROJECT_DIR$/_0944_DeleteColumnsToMakeSorted/_0944_DeleteColumnsToMakeSorted.iml" filepath="$PROJECT_DIR$/_0944_DeleteColumnsToMakeSorted/_0944_DeleteColumnsToMakeSorted.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_1480_RunningSumof1dArray/_1480_RunningSumof1dArray.iml" filepath="$PROJECT_DIR$/_1480_RunningSumof1dArray/_1480_RunningSumof1dArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_1991_FindTheMiddleIndexInArray/_1991_FindTheMiddleIndexInArray.iml" filepath="$PROJECT_DIR$/_1991_FindTheMiddleIndexInArray/_1991_FindTheMiddleIndexInArray.iml" />
     </modules>
   </component>
 </project>
