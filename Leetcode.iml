@@ -10,6 +10,7 @@
       <sourceFolder url="file://$MODULE_DIR$/_0001_Two_Sum/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Two Sum/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/_0032_LongestValidParentheses/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/_0206_ReverseLinkedList/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
