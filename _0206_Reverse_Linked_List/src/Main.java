@@ -7,34 +7,21 @@ public class Main {
     }
 
     public static ListNode reverseList(ListNode head) {
-        if (head == null) return head;
-        ListNode curr = head;
-        ListNode next = curr.next;
-        ListNode temp;
-        curr.next = null;
-        while (next != null) {
-            temp = next.next;
-            next.next = curr;
-            curr = next;
-            next = temp;
+        Stack<Integer> stapel = new Stack<>();
+        while (head != null) {
+            stapel.add(head.val);
+            head = head.next;
         }
-        return curr;
+        ListNode oplossing;
+        ListNode hulp;
+        oplossing = hulp = new ListNode();
+        while (!stapel.isEmpty()) {
+            oplossing.next = new ListNode(stapel.pop());
+            oplossing = oplossing.next;
+        }
+        return hulp.next;
     }
 }
-//        Stack<Integer> stapel = new Stack<>();
-//        while (head!=null){
-//            stapel.add(head.val);
-//            head = head.next;
-//        }
-//        ListNode oplossing;
-//        ListNode hulp;
-//        oplossing=hulp=new ListNode();
-//        while (!stapel.isEmpty()){
-//            oplossing.next = new ListNode(stapel.pop());
-//            oplossing = oplossing.next;
-//        }
-//        return hulp.next;
-//    }
 
 // better, not mine
 //        if (head == null) return head;
