@@ -26,7 +26,7 @@ public class Main {
     }
 
     public static List<List<Integer>> levelOrder(TreeNode root) {
-        return recursion(root, new List<List<Integer>>);
+        return recursion(root, new List<List<Integer>>;
     }
 
     public static List<Integer> recursion(TreeNode root, List<List<Integer>> lijst ){

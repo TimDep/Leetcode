@@ -15,8 +15,10 @@
       <module fileurl="file://$PROJECT_DIR$/_0017_LetterCombinationsOfPhoneNumber/_0017_LetterCombinationsOfPhoneNumber.iml" filepath="$PROJECT_DIR$/_0017_LetterCombinationsOfPhoneNumber/_0017_LetterCombinationsOfPhoneNumber.iml" />
       <module fileurl="file://$PROJECT_DIR$/_0020_ValidParentheses/_0020_ValidParentheses.iml" filepath="$PROJECT_DIR$/_0020_ValidParentheses/_0020_ValidParentheses.iml" />
       <module fileurl="file://$PROJECT_DIR$/_0021_Merge2SortedLists/_0021_Merge2SortedLists.iml" filepath="$PROJECT_DIR$/_0021_Merge2SortedLists/_0021_Merge2SortedLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_0028_FindTheIndexOftheFirstOccInAString/_0028_FindTheIndexOftheFirstOccInAString.iml" filepath="$PROJECT_DIR$/_0028_FindTheIndexOftheFirstOccInAString/_0028_FindTheIndexOftheFirstOccInAString.iml" />
       <module fileurl="file://$PROJECT_DIR$/_0032_Longest_Valid_Parentheses/_0032_Longest_Valid_Parentheses.iml" filepath="$PROJECT_DIR$/_0032_Longest_Valid_Parentheses/_0032_Longest_Valid_Parentheses.iml" />
       <module fileurl="file://$PROJECT_DIR$/_0035_Search insert position/_0035_Search insert position.iml" filepath="$PROJECT_DIR$/_0035_Search insert position/_0035_Search insert position.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_0058_LenghtOfLastWord/_0058_LenghtOfLastWord.iml" filepath="$PROJECT_DIR$/_0058_LenghtOfLastWord/_0058_LenghtOfLastWord.iml" />
       <module fileurl="file://$PROJECT_DIR$/_0070_ClimbingStairs/_0070_ClimbingStairs.iml" filepath="$PROJECT_DIR$/_0070_ClimbingStairs/_0070_ClimbingStairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/_0094_BinaryTreeInorderTraversal/_0094_BinaryTreeInorderTraversal.iml" filepath="$PROJECT_DIR$/_0094_BinaryTreeInorderTraversal/_0094_BinaryTreeInorderTraversal.iml" />
       <module fileurl="file://$PROJECT_DIR$/_0098_ValidateBinarySearchTree/_0098_ValidateBinarySearchTree.iml" filepath="$PROJECT_DIR$/_0098_ValidateBinarySearchTree/_0098_ValidateBinarySearchTree.iml" />
@@ -48,6 +50,7 @@
       <module fileurl="file://$PROJECT_DIR$/_0724_FindPivotIndex/_0724_FindPivotIndex.iml" filepath="$PROJECT_DIR$/_0724_FindPivotIndex/_0724_FindPivotIndex.iml" />
       <module fileurl="file://$PROJECT_DIR$/_0746_MinCostClimbingStairs/_0746_MinCostClimbingStairs.iml" filepath="$PROJECT_DIR$/_0746_MinCostClimbingStairs/_0746_MinCostClimbingStairs.iml" />
       <module fileurl="file://$PROJECT_DIR$/_0876_Middle of the Linked List/_0876_Middle of the Linked List.iml" filepath="$PROJECT_DIR$/_0876_Middle of the Linked List/_0876_Middle of the Linked List.iml" />
+      <module fileurl="file://$PROJECT_DIR$/_0926_FlipStringToMonotoneIncreasing/_0926_FlipStringToMonotoneIncreasing.iml" filepath="$PROJECT_DIR$/_0926_FlipStringToMonotoneIncreasing/_0926_FlipStringToMonotoneIncreasing.iml" />
       <module fileurl="file://$PROJECT_DIR$/_0944_DeleteColumnsToMakeSorted/_0944_DeleteColumnsToMakeSorted.iml" filepath="$PROJECT_DIR$/_0944_DeleteColumnsToMakeSorted/_0944_DeleteColumnsToMakeSorted.iml" />
       <module fileurl="file://$PROJECT_DIR$/_1002_FindCommonCharacters/_1002_FindCommonCharacters.iml" filepath="$PROJECT_DIR$/_1002_FindCommonCharacters/_1002_FindCommonCharacters.iml" />
       <module fileurl="file://$PROJECT_DIR$/_1337_The K Weakest Rows in a Matrix/_1337_The K Weakest Rows in a Matrix.iml" filepath="$PROJECT_DIR$/_1337_The K Weakest Rows in a Matrix/_1337_The K Weakest Rows in a Matrix.iml" />
